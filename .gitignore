@@ -1,0 +1,10 @@
+
+# Dataset files
+*.tif
+*.tiff
+*.TIF
+*.TIFF
+
+# Generated results
+results/*
+!results/.gitkeep
